@@ -19,7 +19,13 @@
    프로그램을 실행하면, 입력된 뉴스 기사들의 카테고리 분포, 편향 정도와 신뢰 가능 여부에 따라 검증된 뉴스 기사들만 출력한다.  
 
 ## 주요 기능
-
+1. 웹 스크래핑 (Web Scraping)
+2. 자연어 처리 (NLP, Natural Language Processing)  
+3. 특징 추출 및 빈도 분석 (Feature Extraction and Frequency Analysis)
+4. 토픽 모델링 (Topic Modeling)
+5. 신뢰도 평가 (Reliability Evaluation)
+6. 시각화 (Visualization)
+7. 워드 클라우드(WordCloud)  
 
 ## 개발환경
 Python 버전: Python 3.8 이상  
